@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+}
+ul{
+    color:white;
+}
+.main{
+    background-color: red; 
+}
+.two{
+    color:white;
+    width: 344px;
+    height: 344px;
+    background-image: url('tiger.jpg');
+    background-size: 340px 340px;
+    background-repeat: no-repeat;
+    background-color: red;
+}
+.three{
+    width: 344px;
+    height: 1000px;
+    background-color:green;
+    border: solid black;
+    background-image: url('image1.jpg');
+    background-size: 344px 344px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}

@@ -1,0 +1,18 @@
+/*{color:aqua}*/
+body{background-color:rgb(9, 228, 218);}
+h1{color:aqua;
+text-align: center;
+text-decoration: underline;}
+#myId{color:blue}
+.myclass{color:brown}
+h2{text-align: left;
+text-decoration: overline;
+font-weight: lighter;}
+h3{text-align: right;
+text-decoration: line-through;}
+a{color:black;
+text-decoration: none;}
+
+
+
+
